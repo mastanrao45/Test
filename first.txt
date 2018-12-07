@@ -1,3 +1,4 @@
 Hello World
 
 echo closing the job
+addig newfile
